@@ -1,0 +1,52 @@
+.Intro {
+  border: 2px solid black;
+  padding: 10px;
+  background-color: white;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+  box-sizing: border-box;
+  color: purple;
+}
+.Playing-Slot-Reciever {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
+}
+.Description {
+  border: 2px solid black;
+  padding: 10px;
+  background-color: white;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+  box-sizing: border-box;
+  color: black;
+}
+.About {
+  border: 2px solid black;
+  padding: 10px;
+  background-color: white;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+  box-sizing: border-box;
+}
+.List1 {
+  border: 2px solid black;
+  padding: 10px;
+  background-color: white;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+  box-sizing: border-box;
+}
