@@ -51,6 +51,9 @@
   width: 50%;
   box-sizing: border-box;
 }
+.purple {
+  color: purple;
+}
 .List1 {
   border: 2px solid black;
   padding: 10px;
@@ -63,6 +66,28 @@
   box-sizing: border-box;
 }
 .codingprojects {
+  border: 2px solid black;
+  padding: 10px;
+  background-color: white;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+  box-sizing: border-box;
+}
+.background {
+  border: 2px solid black;
+  padding: 10px;
+  background-color: white;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+  box-sizing: border-box;
+}
+.portfolio {
   border: 2px solid black;
   padding: 10px;
   background-color: white;
