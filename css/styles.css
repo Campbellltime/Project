@@ -1,5 +1,5 @@
 .Intro {
-  border: 2px solid black;
+  border: 2px solid white;
   padding: 10px;
   background-color: white;
   display: block;
@@ -11,7 +11,7 @@
   color: purple;
 }
 .pugetsound {
-  border: 2px solid black;
+  border: 2px solid white;
   padding: 10px;
   background-color: white;
   display: block;
@@ -29,7 +29,7 @@
   display: block;
 }
 .Description {
-  border: 2px solid black;
+  border: 2px solid white;
   padding: 10px;
   background-color: white;
   display: block;
@@ -38,10 +38,10 @@
   margin-bottom: 20px;
   width: 50%;
   box-sizing: border-box;
-  color: black;
+  color: purple;
 }
 .About {
-  border: 2px solid black;
+  border: 2px solid white;
   padding: 10px;
   background-color: white;
   display: block;
@@ -55,7 +55,7 @@
   color: purple;
 }
 .List1 {
-  border: 2px solid black;
+  border: 2px solid white;
   padding: 10px;
   background-color: white;
   display: block;
@@ -66,7 +66,7 @@
   box-sizing: border-box;
 }
 .codingprojects {
-  border: 2px solid black;
+  border: 2px solid white;
   padding: 10px;
   background-color: white;
   display: block;
@@ -77,7 +77,7 @@
   box-sizing: border-box;
 }
 .background {
-  border: 2px solid black;
+  border: 2px solid white;
   padding: 10px;
   background-color: white;
   display: block;
@@ -88,7 +88,7 @@
   box-sizing: border-box;
 }
 .portfolio {
-  border: 2px solid black;
+  border: 2px solid white;
   padding: 10px;
   background-color: white;
   display: block;
