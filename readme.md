@@ -15,7 +15,7 @@ _This is my first project assigned to me at Epicodus in 2021_
 
 ## Setup/Installation Requirements
 
-* The main page is in the index file.
+* The main page is in the index file. Copy Clone Link. 
 * Launch this page in a browser to view the website.
 
 ## Known Bugs
