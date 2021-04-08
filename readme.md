@@ -15,7 +15,8 @@ _This is my first project assigned to me at Epicodus in 2021_
 
 ## Setup/Installation Requirements
 
-* On the repository linked to "https://github.com/Campbellltime/portfolio-landing-page" - click the green button "Code" and clone the repository onto your local desktop. You can do so by typing this in your terminal (_make sure you're in your Desktop directory_!)
+* On the repository linked to " https://github.com/Campbellltime/Project.git
+" - click the green button "Code" and clone the repository onto your local desktop. You can do so by typing this in your terminal (_make sure you're in your Desktop directory_!)
 ```
  https://github.com/Campbellltime/Project.git
 
@@ -35,7 +36,7 @@ _This is my first project assigned to me at Epicodus in 2021_
 
 ## Github Link
 
-* [Click here](https://campbellltime.github.io/project/) for the Github Pages link.
+* [Click here](https://campbellltime.github.io/Project//) for the Github Pages link.
 
 * Alternatively, you can type "https://campbellltime.github.io/Project/" in your web browser as well.
 
